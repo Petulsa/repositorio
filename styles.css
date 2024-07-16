@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif; 
+    background-color: rgb(153, 32, 32);
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.container {
+    background-color: rgb(153, 32, 32);
+}
+
+.navbar-nav{
+    display: flex;
+    display: flex-end;
+    list-style-type: none;
+}
+
+.nav-item{
+    padding: 3px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
+.navbar-brand{
+    text-decoration: none;
+    color:blanchedalmond;
+}
